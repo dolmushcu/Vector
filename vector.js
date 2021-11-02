@@ -1,4 +1,6 @@
 /** 
+ * Vector.js - 02.11.2021 - https://github.com/dolmushcu/Vector
+ * 
  * Two dimensional euclidean vector implementation.
  * @class Vector
  * @param {Number} x - vector x coord
